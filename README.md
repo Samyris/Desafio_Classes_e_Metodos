@@ -6,6 +6,7 @@ Desafio consiste em criar 3 classes: - Pessoa
                                      
 
 Instanciar uma pessoa, 2 comidas e fazer com que a pessoa coma a comida
+
 PESSOA:
 -nome(String)
 -peso(double)
