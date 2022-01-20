@@ -24,3 +24,6 @@ ex.: Comida c1 = new Comida
      
 -Instancear uma pessoa(nome, peso)
 Pessoa p = new Pessoa
+
+
+MOSTRAR NO CONSOLE PESO ANTES DE COMER E DEPOIS DE COMER
