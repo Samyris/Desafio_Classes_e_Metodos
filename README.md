@@ -19,7 +19,7 @@ COMIDA:
 Quando passar o objeto comida para o método comer de dentro da classe Pessoa, então pega-se o peso da comida e acrescenta ao peso da pessoa.
 
 JANTAR:
--Instancear uma comida(nome, peso em kg)
+- Instancear uma comida(nome, peso em kg)
 ex.: Comida c1 = new Comida
      c1 = "feijão"
      
