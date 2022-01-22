@@ -23,7 +23,7 @@ JANTAR:
 ex.: Comida c1 = new Comida
      c1 = "feijão"
      
--Instancear uma pessoa(nome, peso)
+- Instancear uma pessoa(nome, peso)
 Pessoa p = new Pessoa
 
 
