@@ -8,13 +8,13 @@ Desafio consiste em criar 3 classes: - Pessoa
 Instanciar uma pessoa, 2 comidas e fazer com que a pessoa coma a comida
 
 PESSOA:
--nome(String)
--peso(double)
--método comer que recebe como parâmetro um outro objeto da classe Comida
+- nome(String)
+- peso(double)
+- método comer que recebe como parâmetro um outro objeto da classe Comida
 
 COMIDA:
--nome(String)
--peso(double)
+- nome(String)
+- peso(double)
 
 Quando passar o objeto comida para o método comer de dentro da classe Pessoa, então pega-se o peso da comida e acrescenta ao peso da pessoa.
 
